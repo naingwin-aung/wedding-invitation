@@ -217,7 +217,7 @@ function Gallery() {
         Moments
       </Reveal>
       <Reveal as="h2" className="title" delay={0.1}>
-        Our story in frames
+        Two hearts, one story
       </Reveal>
 
       <div className="grid">

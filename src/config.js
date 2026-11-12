@@ -36,6 +36,10 @@ export const photos = [
   { src: '/photos/photo-4.jpg', alt: 'Photo 7', pos: 'center 18%' },
   { src: '/photos/photo-5.jpg', alt: 'Photo 8', pos: 'center 20%' },
   { src: '/photos/photo-9.jpg', alt: 'Photo 9', pos: 'center 22%' },
+  { src: '/photos/photo-10.jpg', alt: 'Photo 10', pos: 'center 22%' },
+  { src: '/photos/photo-11.jpg', alt: 'Photo 11', pos: 'center 38%' },
+  { src: '/photos/photo-12.jpg', alt: 'Photo 12', pos: 'center 20%' },
+  { src: '/photos/photo-13.jpg', alt: 'Photo 13', pos: '40% 30%' },
 ]
 
 // မင်္ဂလာနေရာ
